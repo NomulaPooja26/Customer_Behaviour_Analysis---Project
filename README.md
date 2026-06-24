@@ -91,7 +91,7 @@ Built an interactive Power BI dashboard containing:
 ---
 ## 👩‍💻 Author
 
-**Pooja**
+**Pooja Nomula**
 ---
 
 ## ⭐ Project Outcome
